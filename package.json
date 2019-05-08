@@ -7,8 +7,8 @@
     "sapis": "bin/sapis.js"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/zhhshen/smart-api.git"
+    "type": "git",
+    "url": "https://github.com/zhhshen/smart-api.git"
   },
   "bugs": {
     "url": "https://github.com/zhhshen/smart-api/issues"

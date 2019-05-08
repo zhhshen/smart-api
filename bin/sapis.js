@@ -27,11 +27,11 @@ const yargs = require('yargs')
   }
 })
 .command({
-  command: 'reset',
-  alias: 'reset',
-  desc: chalk.blue('reset api'),
+  command: 'unreplace',
+  alias: 'unreplace',
+  desc: chalk.blue('unreplace api'),
   handler: argv => {
-    run.reset()
+    run.unreplace()
   }
 })
 .command({
