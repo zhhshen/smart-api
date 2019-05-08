@@ -10,16 +10,16 @@
 #### 安装
 
 ```bash
-npm install s-sapi -g
+npm install sapis-cli -g
 ```
 
 #### 配置项
 
 ```
 命令：
-  sapi init [name]  init a config file
-  sapi replace      replace api
-  sapi reset        reset api
+  sapis init [name]  init a config file
+  sapis replace      replace api
+  sapis reset        reset api
 
 选项：
   --version, -V  显示版本号                                               [布尔]
