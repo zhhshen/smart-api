@@ -1,0 +1,27 @@
+{
+  "name": "s-sapi",
+  "version": "1.0.2",
+  "description": "智能替换项目中的api的工具",
+  "main": "bin/sapi.js",
+  "bin": {
+    "sapi": "bin/sapi.js"
+  },
+  "repository": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smart-api",
+    "chalk",
+    "yargs"
+  ],
+  "author": "zhhshen",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cp-file": "^7.0.0",
+    "dayjs": "^1.8.14",
+    "lodash.merge": "^4.6.1",
+    "yargs": "^13.2.2"
+  }
+}
