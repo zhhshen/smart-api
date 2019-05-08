@@ -1,17 +1,23 @@
 {
   "name": "s-sapi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "智能替换项目中的api的工具",
-  "main": "bin/sapi.js",
+  "main": "lib/index.js",
   "bin": {
     "sapi": "bin/sapi.js"
   },
-  "repository": {},
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/zhhshen/smart-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhhshen/smart-api/issues"
+  },
+  "homepage": "https://github.com/zhhshen/smart-api#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "smart-api",
     "chalk",
     "yargs"
   ],
