@@ -1,6 +1,6 @@
 {
   "name": "sapis-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "智能替换项目中的api的工具",
   "main": "lib/index.js",
   "bin": {
