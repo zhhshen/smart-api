@@ -7,7 +7,6 @@ const run = require("../lib")
 const chalk = require('chalk')
 
 const yargs = require('yargs')
-.usage(chalk.blue("sapi <init|update|clean>"))
 .version('version', chalk.blue(pkg.version))
 .alias('version', 'V')
 .command({
